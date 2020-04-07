@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F55A6F8A-82A6-EBEC-00B0-9C49E441E3D8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerController.cs" Line="27" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MurderShow" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="playerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f3f75539-8a6d-41b3-b4c5-cbd8457a5340" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
